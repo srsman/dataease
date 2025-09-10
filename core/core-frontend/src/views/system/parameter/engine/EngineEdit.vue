@@ -273,6 +273,7 @@ defineExpose({
     v-model="dialogVisible"
     modal-class="basic-param-drawer"
     size="600px"
+    :z-index="2000"
     direction="rtl"
   >
     <el-form

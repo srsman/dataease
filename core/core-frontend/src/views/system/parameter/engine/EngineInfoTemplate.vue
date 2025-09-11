@@ -31,7 +31,7 @@
   />
   <!--    数据填报      -->
   <XpackComponent
-    style="padding: 0 24px 8px"
+    style="max-width: 100%; padding: 0 24px 8px"
     :nodeInfo="xPackInfo"
     jsname="L2NvbXBvbmVudC9kYXRhLWZpbGxpbmcvRGF0YXNvdXJjZURhdGFGaWxsaW5nSW5mbw=="
   />
